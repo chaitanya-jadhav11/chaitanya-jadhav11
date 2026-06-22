@@ -37,9 +37,10 @@ I am a backend engineering veteran with **13+ years of experience** building dis
 ## 🚀 AI & Software Engineering Projects
 
 | Technology                 | Repository                                                                                                             | Description                                                         |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |---------------------------------------------------------------------|
+|----------------------------|------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
 | LangGraph                  | [langgraph-deep-agent](https://github.com/chaitanya-jadhav11/langgraph-deep-agent)                                     | Deep agent implementation using LangGraph and agentic workflows     |
 | LangGraph                  | [agentic-rag-with-langgraph](https://github.com/chaitanya-jadhav11/agentic-rag-with-langgraph)                         | Agentic RAG application built with LangGraph                        |
+| LangGraph, SQL-RAG         | [agentic-sql-rag](https://https://github.com/chaitanya-jadhav11/agentic-sql-rag)                                       | An agentic SQL RAG system that answers natural-language questions about an e-commerce database.                        |
 | LangGraph                  | [academy-langchain-langgraph](https://github.com/chaitanya-jadhav11/academy-langchain-langgraph)                       | Learning projects and exercises from LangChain Academy              |
 | LangGraph, LangChain       | [AI-Agents-with-LangChain-and-LangGraph](https://github.com/chaitanya-jadhav11/AI-Agents-with-LangChain-and-LangGraph) | AI agents built using LangChain and LangGraph                       |
 | Agentic AI, Claude         | [building-with-claude-AI](https://github.com/chaitanya-jadhav11/building-with-claude-AI)                               | Agentic AI applications and experiments using Claude                |
@@ -52,4 +53,4 @@ I am a backend engineering veteran with **13+ years of experience** building dis
 | Python for AI              | [python-for-ai](https://github.com/chaitanya-jadhav11/python-for-ai)                                                   | Python fundamentals and utilities for AI development                |
 | Data Science               | [data-science-with-python](https://github.com/chaitanya-jadhav11/data-science-with-python)                             | Data science concepts, notebooks, and Python examples               |
 | FastAPI                    | [fast-api-demo](https://github.com/chaitanya-jadhav11/fast-api-demo)                                                   | REST API development using FastAPI                                  |
-| Temporal                    | [temporal-for-agentic-ai](https://github.com/chaitanya-jadhav11/temporal-for-agentic-ai)                               | Temporal a durable execution platform for AI application            |
+| Temporal                   | [temporal-for-agentic-ai](https://github.com/chaitanya-jadhav11/temporal-for-agentic-ai)                               | Temporal a durable execution platform for AI application            |
